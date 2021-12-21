@@ -1,0 +1,27 @@
+1_Total number of facts: 461329
+2_Total number of entities: 10488
+3_Total number of relations: 251
+4_Total number of timestamps: 4017
+5_train:
+  1_Facts: 322958
+  3_Entities: 8853
+  5_Relations: 248
+  7_Timestamps: 2775
+6_valid:
+  1_Facts: 69224
+  2_New facts (new entities/relations): 3241
+  3_Entities: 4851
+  4_New entities (not in train): 939
+  5_Relations: 222
+  6_New relations (not in train): 2
+  7_Timestamps: 679
+  8_New timestamps (not in train): 679
+7_test:
+  1_Facts: 69147
+  2_New facts (new entities/relations): 8559
+  3_Entities: 4751
+  4_New entities (not in train): 1089
+  5_Relations: 217
+  6_New relations (not in train): 2
+  7_Timestamps: 563
+  8_New timestamps (not in train): 563
